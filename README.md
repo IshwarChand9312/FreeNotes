@@ -1,9 +1,9 @@
-FreeNotes
+***FreeNotes***
 The application which started with only a textView now is very near to it’s goal  or objective. According to us, the app is never completed because there is always a chance to update or add new features . We had developed a normal usable app but our goal is to make the app  a more general perspective app. The android studio contains an activity which has two components : kotlin file and xml file .
 
-Xml file - Xml file contains all the code for the user interface . How user will see the graphics is done by this file
+**Xml file** - Xml file contains all the code for the user interface . How user will see the graphics is done by this file
 
-Kotlin file - Kotline file contains all the backend work done by it’s associated xml file
+**Kotlin file** - Kotline file contains all the backend work done by it’s associated xml file
 
 In our app , till now there is four xml file and four kotin file .The xml file names are activity_main, activity_book_preview, activity_bookdetail, item_detail . The kotlin file are Adapter, bookDetail,BookPreview,MainActivity and upload book.The each file has its own importance 
 
